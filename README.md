@@ -1,3 +1,10 @@
+this project is created to do the industrial project on online bookstore website using react.js under guidence of Tatvasoft Software Development Company
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
