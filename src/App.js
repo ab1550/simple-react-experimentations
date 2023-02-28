@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <Home />
+      <Home title = {"titlefromapp"} description = {"description from app"}/>
 
     </div>
   );
