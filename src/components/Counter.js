@@ -17,12 +17,12 @@ export default class Counter extends Component {
         }))
     }
 
-    updateCounterMultipleTimes(){
-      for (let i = 0; i < 12000; i++) {
-        this.updateCounter()
+    // updateCounterMultipleTimes(){
+    //   for (let i = 0; i < 12000; i++) {
+    //     this.updateCounter()
         
-      }
-    }
+    //   }
+    // }
 
     render() {
     
