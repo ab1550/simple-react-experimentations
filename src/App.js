@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Home from './pages/Home';
+import Counter from './components/Counter';
 
 function App() {
   return (
@@ -19,7 +20,8 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <Home title = {"titlefromapp"} description = {"description from app"}/>
+      <Home title = "titlefromapp" description = "description from app"/>
+      <Counter />
 
     </div>
   );
